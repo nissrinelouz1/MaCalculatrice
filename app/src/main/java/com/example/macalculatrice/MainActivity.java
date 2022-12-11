@@ -1,6 +1,8 @@
 package com.example.macalculatrice;
 
 
+import static android.os.Build.VERSION_CODES.R;
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.annotation.SuppressLint;
